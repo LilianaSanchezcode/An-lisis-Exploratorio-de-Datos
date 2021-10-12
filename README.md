@@ -44,12 +44,13 @@ Variables:
         
 •	Identificación de Outliers mediante Box-plot, histograma y QQ -plot (revisando la normalidad de credit amount) para las variables numéricas:
        
+       Monto de Crédito
        
-         Credit Amount
-	 Duration
-         Age
-	 
-        
+       Duración
+       
+       
+       Edad
+            
 	
 •	Detectar outliers por el método del Rango Intercuartil.
 
