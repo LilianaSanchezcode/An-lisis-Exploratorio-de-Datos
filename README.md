@@ -5,7 +5,6 @@ Una de las industrias que utiliza mucho las soluciones basadas en el análisis d
 
 
 Fuente de la data:
-
 El conjunto de datos contiene 1000 filas con 10 variables .En este conjunto de datos, cada entrada representa a un cliente que recibe un crédito de un banco. Cada cliente se clasifica con riesgo crediticio bueno o malo según el conjunto de variables. El enlace al conjunto de datos original se puede encontrar a continuación.
 
 
@@ -45,12 +44,12 @@ Variables:
         
 •	Identificación de Outliers mediante Box-plot, histograma y QQ -plot (revisando la normalidad de credit amount) para las variables numéricas:
        
-        Credit Amount
+         Credit Amount
         
-	Duration
+	 Duration
         
-	
-	Age
+	 Age
+	 
         
 •	Detectar outliers por el método del Rango Intercuartil.
 
