@@ -40,7 +40,10 @@ Qué conseguirás en este análisis Exploratorio de Datos.
         Age
         
 •	Detectar outliers por el método del Rango Intercuartil.
+
+
         Lower_tail = q1 - 1.5 * iqr
+	
         Upper_tail = q3 + 1.5 * iqr
         
 •	 Eliminar outliers
