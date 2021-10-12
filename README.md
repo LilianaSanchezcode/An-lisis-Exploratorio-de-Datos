@@ -1,4 +1,4 @@
-# Análisis-Exploratorio-de-Datos
+# Análisis-Exploratorio-de-Datos con python
 Análisis Exploratorio de Datos
 
 Una de las industrias que más utiliza las soluciones basadas en el análisis de datos es la  banca. En particular, este proyecto se centra  en el campo del crédito: se refiere a cualquier  operación que implica un operador privado, lo que podría ser un solo individuo en lugar de una familia, y el banco. La idea del crédito es que el banco se beneficiará de aprobar el crédito solo si el cliente no incumple (es decir, no pagará la deuda). En efecto, una vez aceptado como solvente y recibido el crédito, el cliente planificará, junto con el banco, un cronograma de amortización según el cual deberá reembolsar no solo la deuda, sino también los intereses.
