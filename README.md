@@ -49,6 +49,8 @@ Qué conseguirás en este análisis Exploratorio de Datos.
 •	 Eliminar outliers
 
 •	Ingeniería de características:
+
+
 I.	    Dumificación de las variables categóricas 
 II.	     Estandarización de las variables
 
