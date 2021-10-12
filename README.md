@@ -51,8 +51,10 @@ Qué conseguirás en este análisis Exploratorio de Datos.
 •	Ingeniería de características:
 
 
-I.	    Dumificación de las variables categóricas 
-II.	     Estandarización de las variables
+	I. Dumificación de las variables categóricas 
+
+
+	II.Estandarización de las variables
 
 
 
